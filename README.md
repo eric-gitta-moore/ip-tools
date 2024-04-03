@@ -6,6 +6,9 @@
 - https://ipdata.co/
 - https://scamalytics.com/
 
+## 信息查询
+- https://ipinfo.io/
+
 ## 多出口 ip 查询网站
 - https://ip.skk.moe/
   - WebRTC (UDP) IP 查询

@@ -18,6 +18,7 @@
   - 中国科学技术大学反向代理服务器
   - 多出口 IP 分流查询
   - 测速
+- https://ipcheck.ing/
 
 ## SpeedTest
 - https://speed.cloudflare.com/__down?bytes=100000000

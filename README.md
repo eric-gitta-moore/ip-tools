@@ -1,6 +1,6 @@
 # ip-tools
 ## 单 ip 查询
-- ip.gs、ip.cn、ip.sb
+- ip.gs、ip.sb、ip.cn
 
 ## 可信度检测
 - https://ipdata.co/

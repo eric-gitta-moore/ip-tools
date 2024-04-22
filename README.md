@@ -23,3 +23,4 @@
 ## SpeedTest
 - https://speed.cloudflare.com/__down?bytes=100000000
 - http://cachefly.cachefly.net/100mb.test
+- [VPS下载测速文件100M/1GB/10GB](https://lot.pm/vps-download-speedtest-files.html)
